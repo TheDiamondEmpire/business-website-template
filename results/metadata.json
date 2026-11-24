@@ -1,0 +1,415 @@
+{
+  "siteUrl": "https://www.example.com",
+  "pages": {
+    "404.html": {
+      "urlPath": null,
+      "title": "Page not found | The Diamond Empire Consulting",
+      "titleLength": 46,
+      "description": "The page you were looking for could not be found. It may have moved or the address may be mistyped.",
+      "descriptionLength": 99,
+      "canonical": null,
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "headingLevels": 3,
+      "problems": []
+    },
+    "about/index.html": {
+      "urlPath": "/about/",
+      "title": "About us | The Diamond Empire Consulting",
+      "titleLength": 40,
+      "description": "Meet the team at The Diamond Empire Consulting, a small sample consultancy. Our story, our values and how we work with owner-led businesses.",
+      "descriptionLength": 140,
+      "canonical": "https://www.example.com/about/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 15,
+      "problems": []
+    },
+    "blog/choose-three-priorities/index.html": {
+      "urlPath": "/blog/choose-three-priorities/",
+      "title": "How to choose three priorities when everything feels urgent",
+      "titleLength": 59,
+      "description": "A simple, repeatable method for turning a long list of good ideas into three priorities your whole team can name from memory.",
+      "descriptionLength": 125,
+      "canonical": "https://www.example.com/blog/choose-three-priorities/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "BlogPosting",
+        "Organization"
+      ],
+      "headingLevels": 11,
+      "problems": []
+    },
+    "blog/find-your-bottleneck/index.html": {
+      "urlPath": "/blog/find-your-bottleneck/",
+      "title": "Find your bottleneck before you buy new software",
+      "titleLength": 48,
+      "description": "Most operational problems are caused by one slow step, not by a lack of tools. Learn how to find that step with a pencil and a handful of real jobs.",
+      "descriptionLength": 148,
+      "canonical": "https://www.example.com/blog/find-your-bottleneck/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "BlogPosting",
+        "Organization"
+      ],
+      "headingLevels": 10,
+      "problems": []
+    },
+    "blog/homepage-headline-customers-repeat/index.html": {
+      "urlPath": "/blog/homepage-headline-customers-repeat/",
+      "title": "Write a homepage headline your customers would say out loud",
+      "titleLength": 59,
+      "description": "Clever slogans rarely sell services. A plain headline built from your customers' own words works harder. Here is how to write one in an hour.",
+      "descriptionLength": 141,
+      "canonical": "https://www.example.com/blog/homepage-headline-customers-repeat/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "BlogPosting",
+        "Organization"
+      ],
+      "headingLevels": 11,
+      "problems": []
+    },
+    "blog/index.html": {
+      "urlPath": "/blog/",
+      "title": "Blog | The Diamond Empire Consulting",
+      "titleLength": 36,
+      "description": "Practical, original articles on strategy, operations, pricing and leadership for owner-led service businesses.",
+      "descriptionLength": 110,
+      "canonical": "https://www.example.com/blog/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 10,
+      "problems": []
+    },
+    "blog/seven-questions-before-your-first-hire/index.html": {
+      "urlPath": "/blog/seven-questions-before-your-first-hire/",
+      "title": "Seven questions to ask before your first hire",
+      "titleLength": 45,
+      "description": "Hiring your first employee is a big step. Answer these seven questions first and you will write a better advert, run a fairer process and avoid a costly mistake.",
+      "descriptionLength": 161,
+      "canonical": "https://www.example.com/blog/seven-questions-before-your-first-hire/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "BlogPosting",
+        "Organization"
+      ],
+      "headingLevels": 13,
+      "problems": []
+    },
+    "blog/stop-pricing-by-the-hour/index.html": {
+      "urlPath": "/blog/stop-pricing-by-the-hour/",
+      "title": "Stop pricing by the hour: a simple way to package your services",
+      "titleLength": 63,
+      "description": "Hourly pricing punishes you for getting faster. Here is a three-step way to package your work into fixed-price offers that customers understand.",
+      "descriptionLength": 144,
+      "canonical": "https://www.example.com/blog/stop-pricing-by-the-hour/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "BlogPosting",
+        "Organization"
+      ],
+      "headingLevels": 10,
+      "problems": []
+    },
+    "blog/tag/brand/index.html": {
+      "urlPath": "/blog/tag/brand/",
+      "title": "Brand articles | The Diamond Empire Consulting",
+      "titleLength": 46,
+      "description": "Read 1 article tagged brand on The Diamond Empire Consulting blog.",
+      "descriptionLength": 66,
+      "canonical": "https://www.example.com/blog/tag/brand/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 6,
+      "problems": []
+    },
+    "blog/tag/hiring/index.html": {
+      "urlPath": "/blog/tag/hiring/",
+      "title": "Hiring articles | The Diamond Empire Consulting",
+      "titleLength": 47,
+      "description": "Read 1 article tagged hiring on The Diamond Empire Consulting blog.",
+      "descriptionLength": 67,
+      "canonical": "https://www.example.com/blog/tag/hiring/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 6,
+      "problems": []
+    },
+    "blog/tag/leadership/index.html": {
+      "urlPath": "/blog/tag/leadership/",
+      "title": "Leadership articles | The Diamond Empire Consulting",
+      "titleLength": 51,
+      "description": "Read 1 article tagged leadership on The Diamond Empire Consulting blog.",
+      "descriptionLength": 71,
+      "canonical": "https://www.example.com/blog/tag/leadership/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 6,
+      "problems": []
+    },
+    "blog/tag/messaging/index.html": {
+      "urlPath": "/blog/tag/messaging/",
+      "title": "Messaging articles | The Diamond Empire Consulting",
+      "titleLength": 50,
+      "description": "Read 1 article tagged messaging on The Diamond Empire Consulting blog.",
+      "descriptionLength": 70,
+      "canonical": "https://www.example.com/blog/tag/messaging/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 6,
+      "problems": []
+    },
+    "blog/tag/operations/index.html": {
+      "urlPath": "/blog/tag/operations/",
+      "title": "Operations articles | The Diamond Empire Consulting",
+      "titleLength": 51,
+      "description": "Read 1 article tagged operations on The Diamond Empire Consulting blog.",
+      "descriptionLength": 71,
+      "canonical": "https://www.example.com/blog/tag/operations/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 6,
+      "problems": []
+    },
+    "blog/tag/planning/index.html": {
+      "urlPath": "/blog/tag/planning/",
+      "title": "Planning articles | The Diamond Empire Consulting",
+      "titleLength": 49,
+      "description": "Read 1 article tagged planning on The Diamond Empire Consulting blog.",
+      "descriptionLength": 69,
+      "canonical": "https://www.example.com/blog/tag/planning/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 6,
+      "problems": []
+    },
+    "blog/tag/pricing/index.html": {
+      "urlPath": "/blog/tag/pricing/",
+      "title": "Pricing articles | The Diamond Empire Consulting",
+      "titleLength": 48,
+      "description": "Read 1 article tagged pricing on The Diamond Empire Consulting blog.",
+      "descriptionLength": 68,
+      "canonical": "https://www.example.com/blog/tag/pricing/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 6,
+      "problems": []
+    },
+    "blog/tag/process/index.html": {
+      "urlPath": "/blog/tag/process/",
+      "title": "Process articles | The Diamond Empire Consulting",
+      "titleLength": 48,
+      "description": "Read 1 article tagged process on The Diamond Empire Consulting blog.",
+      "descriptionLength": 68,
+      "canonical": "https://www.example.com/blog/tag/process/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 6,
+      "problems": []
+    },
+    "blog/tag/strategy/index.html": {
+      "urlPath": "/blog/tag/strategy/",
+      "title": "Strategy articles | The Diamond Empire Consulting",
+      "titleLength": 49,
+      "description": "Read 2 articles tagged strategy on The Diamond Empire Consulting blog.",
+      "descriptionLength": 70,
+      "canonical": "https://www.example.com/blog/tag/strategy/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 7,
+      "problems": []
+    },
+    "contact/index.html": {
+      "urlPath": "/contact/",
+      "title": "Contact us | The Diamond Empire Consulting",
+      "titleLength": 42,
+      "description": "Get in touch with The Diamond Empire Consulting. Send a message or book a free thirty-minute call. We reply within two working days.",
+      "descriptionLength": 132,
+      "canonical": "https://www.example.com/contact/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 5,
+      "problems": []
+    },
+    "index.html": {
+      "urlPath": "/",
+      "title": "The Diamond Empire Consulting | Strategy and operations consulting",
+      "titleLength": 66,
+      "description": "The Diamond Empire Consulting helps owner-led service businesses set a clear strategy, tidy their operations and price with confidence. Sample content.",
+      "descriptionLength": 151,
+      "canonical": "https://www.example.com/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "headingLevels": 18,
+      "problems": []
+    },
+    "pricing/index.html": {
+      "urlPath": "/pricing/",
+      "title": "Pricing | The Diamond Empire Consulting",
+      "titleLength": 39,
+      "description": "Three clear packages with fixed prices. See what is included, what is not and how to choose, with no hidden extras.",
+      "descriptionLength": 115,
+      "canonical": "https://www.example.com/pricing/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 10,
+      "problems": []
+    },
+    "services/brand-positioning/index.html": {
+      "urlPath": "/services/brand-positioning/",
+      "title": "Brand and positioning | The Diamond Empire Consulting",
+      "titleLength": 53,
+      "description": "A positioning project that clarifies who you serve, what you promise and how you say it, so your website, proposals and conversations all tell the same story.",
+      "descriptionLength": 158,
+      "canonical": "https://www.example.com/services/brand-positioning/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 12,
+      "problems": []
+    },
+    "services/index.html": {
+      "urlPath": "/services/",
+      "title": "Services | The Diamond Empire Consulting",
+      "titleLength": 40,
+      "description": "Six ways we help owner-led service businesses get clearer, calmer and more profitable, from a one-week strategy sprint to ongoing leadership coaching.",
+      "descriptionLength": 150,
+      "canonical": "https://www.example.com/services/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 11,
+      "problems": []
+    },
+    "services/leadership-coaching/index.html": {
+      "urlPath": "/services/leadership-coaching/",
+      "title": "Leadership coaching | The Diamond Empire Consulting",
+      "titleLength": 51,
+      "description": "Leadership coaching for owners and managers who want to delegate better, hold clearer conversations and make decisions without carrying everything alone.",
+      "descriptionLength": 153,
+      "canonical": "https://www.example.com/services/leadership-coaching/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 12,
+      "problems": []
+    },
+    "services/operations-review/index.html": {
+      "urlPath": "/services/operations-review/",
+      "title": "Operations review | The Diamond Empire Consulting",
+      "titleLength": 49,
+      "description": "An operations review that looks at how work really moves through your business, from enquiry to invoice, and removes the delays that cost you time and goodwill.",
+      "descriptionLength": 160,
+      "canonical": "https://www.example.com/services/operations-review/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 12,
+      "problems": []
+    },
+    "services/pricing-and-offers/index.html": {
+      "urlPath": "/services/pricing-and-offers/",
+      "title": "Pricing and offers | The Diamond Empire Consulting",
+      "titleLength": 50,
+      "description": "A pricing and offers workshop series that helps you package your services, set prices that reflect the value you create and handle price conversations calmly.",
+      "descriptionLength": 158,
+      "canonical": "https://www.example.com/services/pricing-and-offers/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 12,
+      "problems": []
+    },
+    "services/strategy-sprint/index.html": {
+      "urlPath": "/services/strategy-sprint/",
+      "title": "Strategy sprint | The Diamond Empire Consulting",
+      "titleLength": 47,
+      "description": "A strategy sprint for owner-led businesses that have outgrown gut feel. In five days we agree where you are, where you want to be in a year and the three bets to get there.",
+      "descriptionLength": 172,
+      "canonical": "https://www.example.com/services/strategy-sprint/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 12,
+      "problems": []
+    },
+    "services/team-and-hiring/index.html": {
+      "urlPath": "/services/team-and-hiring/",
+      "title": "Team and hiring | The Diamond Empire Consulting",
+      "titleLength": 47,
+      "description": "Support for your first hires and your next ones: defining the role, writing an honest advert, structuring interviews and onboarding the new colleague well.",
+      "descriptionLength": 155,
+      "canonical": "https://www.example.com/services/team-and-hiring/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 12,
+      "problems": []
+    }
+  },
+  "duplicateTitles": [],
+  "duplicateDescriptions": []
+}

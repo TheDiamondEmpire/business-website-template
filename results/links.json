@@ -1,0 +1,217 @@
+{
+  "404.html": {
+    "checked": 31,
+    "broken": [],
+    "external": [
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "about/index.html": {
+    "checked": 35,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/about/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "blog/choose-three-priorities/index.html": {
+    "checked": 34,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/blog/choose-three-priorities/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "blog/find-your-bottleneck/index.html": {
+    "checked": 34,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/blog/find-your-bottleneck/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "blog/homepage-headline-customers-repeat/index.html": {
+    "checked": 34,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/blog/homepage-headline-customers-repeat/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "blog/index.html": {
+    "checked": 45,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/blog/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "blog/seven-questions-before-your-first-hire/index.html": {
+    "checked": 34,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/blog/seven-questions-before-your-first-hire/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "blog/stop-pricing-by-the-hour/index.html": {
+    "checked": 34,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/blog/stop-pricing-by-the-hour/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "blog/tag/brand/index.html": {
+    "checked": 42,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/blog/tag/brand/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "blog/tag/hiring/index.html": {
+    "checked": 42,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/blog/tag/hiring/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "blog/tag/leadership/index.html": {
+    "checked": 42,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/blog/tag/leadership/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "blog/tag/messaging/index.html": {
+    "checked": 42,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/blog/tag/messaging/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "blog/tag/operations/index.html": {
+    "checked": 42,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/blog/tag/operations/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "blog/tag/planning/index.html": {
+    "checked": 42,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/blog/tag/planning/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "blog/tag/pricing/index.html": {
+    "checked": 42,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/blog/tag/pricing/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "blog/tag/process/index.html": {
+    "checked": 42,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/blog/tag/process/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "blog/tag/strategy/index.html": {
+    "checked": 43,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/blog/tag/strategy/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "contact/index.html": {
+    "checked": 41,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/contact/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "index.html": {
+    "checked": 42,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "pricing/index.html": {
+    "checked": 40,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/pricing/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "services/brand-positioning/index.html": {
+    "checked": 41,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/services/brand-positioning/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "services/index.html": {
+    "checked": 38,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/services/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "services/leadership-coaching/index.html": {
+    "checked": 41,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/services/leadership-coaching/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "services/operations-review/index.html": {
+    "checked": 41,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/services/operations-review/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "services/pricing-and-offers/index.html": {
+    "checked": 41,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/services/pricing-and-offers/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "services/strategy-sprint/index.html": {
+    "checked": 41,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/services/strategy-sprint/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "services/team-and-hiring/index.html": {
+    "checked": 41,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/services/team-and-hiring/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  }
+}

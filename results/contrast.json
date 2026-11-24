@@ -1,0 +1,727 @@
+{
+  "method": "WCAG 2.x relative-luminance contrast ratio computed from the hex colour tokens in src/styles/tokens.css. Ratios are rounded down to two decimals.",
+  "pairsPerTheme": 35,
+  "pairsChecked": 70,
+  "passed": 70,
+  "failed": 0,
+  "smallestMargin": {
+    "fg": "--gold-text",
+    "bg": "--surface-2",
+    "ratio": 5.72,
+    "min": 4.5,
+    "use": "gold accent text on tinted surfaces"
+  },
+  "darkBlockConsistency": {
+    "present": true,
+    "identical": true,
+    "differences": [],
+    "missingFromDark": []
+  },
+  "failures": [],
+  "themes": {
+    "light": [
+      {
+        "fg": "--text",
+        "fgValue": "#131b2f",
+        "bg": "--bg",
+        "bgValue": "#fbfaf7",
+        "min": 4.5,
+        "ratio": 16.41,
+        "pass": true,
+        "use": "body text on the page"
+      },
+      {
+        "fg": "--text",
+        "fgValue": "#131b2f",
+        "bg": "--surface",
+        "bgValue": "#ffffff",
+        "min": 4.5,
+        "ratio": 17.13,
+        "pass": true,
+        "use": "text on cards, form fields and the contact panel"
+      },
+      {
+        "fg": "--text",
+        "fgValue": "#131b2f",
+        "bg": "--surface-2",
+        "bgValue": "#f2efe6",
+        "min": 4.5,
+        "ratio": 14.9,
+        "pass": true,
+        "use": "text on tinted bands, page heading blocks, table headers"
+      },
+      {
+        "fg": "--text",
+        "fgValue": "#131b2f",
+        "bg": "--accent-soft",
+        "bgValue": "#e8edfb",
+        "min": 4.5,
+        "ratio": 14.63,
+        "pass": true,
+        "use": "text on the pressed theme toggle"
+      },
+      {
+        "fg": "--text-muted",
+        "fgValue": "#475268",
+        "bg": "--bg",
+        "bgValue": "#fbfaf7",
+        "min": 4.5,
+        "ratio": 7.52,
+        "pass": true,
+        "use": "secondary text on the page"
+      },
+      {
+        "fg": "--text-muted",
+        "fgValue": "#475268",
+        "bg": "--surface",
+        "bgValue": "#ffffff",
+        "min": 4.5,
+        "ratio": 7.85,
+        "pass": true,
+        "use": "secondary text on cards"
+      },
+      {
+        "fg": "--text-muted",
+        "fgValue": "#475268",
+        "bg": "--surface-2",
+        "bgValue": "#f2efe6",
+        "min": 4.5,
+        "ratio": 6.82,
+        "pass": true,
+        "use": "secondary text on tinted bands and page heading blocks"
+      },
+      {
+        "fg": "--accent-text",
+        "fgValue": "#1e40a6",
+        "bg": "--bg",
+        "bgValue": "#fbfaf7",
+        "min": 4.5,
+        "ratio": 8.6,
+        "pass": true,
+        "use": "links on the page"
+      },
+      {
+        "fg": "--accent-text",
+        "fgValue": "#1e40a6",
+        "bg": "--surface",
+        "bgValue": "#ffffff",
+        "min": 4.5,
+        "ratio": 8.97,
+        "pass": true,
+        "use": "links and outlined buttons on cards"
+      },
+      {
+        "fg": "--accent-text",
+        "fgValue": "#1e40a6",
+        "bg": "--surface-2",
+        "bgValue": "#f2efe6",
+        "min": 4.5,
+        "ratio": 7.8,
+        "pass": true,
+        "use": "links on tinted bands"
+      },
+      {
+        "fg": "--accent-text",
+        "fgValue": "#1e40a6",
+        "bg": "--accent-soft",
+        "bgValue": "#e8edfb",
+        "min": 4.5,
+        "ratio": 7.66,
+        "pass": true,
+        "use": "tags, call-out titles and icons on tinted tiles"
+      },
+      {
+        "fg": "--accent-ink",
+        "fgValue": "#ffffff",
+        "bg": "--accent",
+        "bgValue": "#1e40a6",
+        "min": 4.5,
+        "ratio": 8.97,
+        "pass": true,
+        "use": "primary button, badge and skip link labels"
+      },
+      {
+        "fg": "--accent-ink",
+        "fgValue": "#ffffff",
+        "bg": "--accent-text",
+        "bgValue": "#1e40a6",
+        "min": 4.5,
+        "ratio": 8.97,
+        "pass": true,
+        "use": "primary button label on hover"
+      },
+      {
+        "fg": "--hero-text",
+        "fgValue": "#f6f8ff",
+        "bg": "--hero-bg",
+        "bgValue": "#0e1a3a",
+        "min": 4.5,
+        "ratio": 16.12,
+        "pass": true,
+        "use": "hero headline, call-to-action band and outlined buttons on dark"
+      },
+      {
+        "fg": "--hero-muted",
+        "fgValue": "#c5cde8",
+        "bg": "--hero-bg",
+        "bgValue": "#0e1a3a",
+        "min": 4.5,
+        "ratio": 10.81,
+        "pass": true,
+        "use": "hero and call-to-action supporting text"
+      },
+      {
+        "fg": "--hero-accent",
+        "fgValue": "#f0c24b",
+        "bg": "--hero-bg",
+        "bgValue": "#0e1a3a",
+        "min": 4.5,
+        "ratio": 10.2,
+        "pass": true,
+        "use": "hero eyebrow text"
+      },
+      {
+        "fg": "--hero-accent-ink",
+        "fgValue": "#0e1a3a",
+        "bg": "--hero-accent",
+        "bgValue": "#f0c24b",
+        "min": 4.5,
+        "ratio": 10.2,
+        "pass": true,
+        "use": "gold button and demo badge labels"
+      },
+      {
+        "fg": "--hero-accent-ink",
+        "fgValue": "#0e1a3a",
+        "bg": "--hero-text",
+        "bgValue": "#f6f8ff",
+        "min": 4.5,
+        "ratio": 16.12,
+        "pass": true,
+        "use": "gold button label on hover"
+      },
+      {
+        "fg": "--footer-text",
+        "fgValue": "#e7ebf8",
+        "bg": "--footer-bg",
+        "bgValue": "#0b1430",
+        "min": 4.5,
+        "ratio": 15.24,
+        "pass": true,
+        "use": "footer text and links"
+      },
+      {
+        "fg": "--footer-muted",
+        "fgValue": "#aeb8d6",
+        "bg": "--footer-bg",
+        "bgValue": "#0b1430",
+        "min": 4.5,
+        "ratio": 9.18,
+        "pass": true,
+        "use": "footer headings, tagline and legal line"
+      },
+      {
+        "fg": "--danger",
+        "fgValue": "#b42318",
+        "bg": "--bg",
+        "bgValue": "#fbfaf7",
+        "min": 4.5,
+        "ratio": 6.29,
+        "pass": true,
+        "use": "error text on the page"
+      },
+      {
+        "fg": "--danger",
+        "fgValue": "#b42318",
+        "bg": "--surface",
+        "bgValue": "#ffffff",
+        "min": 4.5,
+        "ratio": 6.57,
+        "pass": true,
+        "use": "error text and error summary on cards"
+      },
+      {
+        "fg": "--gold-text",
+        "fgValue": "#7a5700",
+        "bg": "--bg",
+        "bgValue": "#fbfaf7",
+        "min": 4.5,
+        "ratio": 6.3,
+        "pass": true,
+        "use": "gold accent text on the page"
+      },
+      {
+        "fg": "--gold-text",
+        "fgValue": "#7a5700",
+        "bg": "--surface",
+        "bgValue": "#ffffff",
+        "min": 4.5,
+        "ratio": 6.58,
+        "pass": true,
+        "use": "gold accent text on cards"
+      },
+      {
+        "fg": "--gold-text",
+        "fgValue": "#7a5700",
+        "bg": "--surface-2",
+        "bgValue": "#f2efe6",
+        "min": 4.5,
+        "ratio": 5.72,
+        "pass": true,
+        "use": "gold accent text on tinted surfaces"
+      },
+      {
+        "fg": "--success",
+        "fgValue": "#17663a",
+        "bg": "--surface",
+        "bgValue": "#ffffff",
+        "min": 3,
+        "ratio": 7,
+        "pass": true,
+        "use": "tick icons and confirmation border on cards (non-text)"
+      },
+      {
+        "fg": "--input-border",
+        "fgValue": "#6b7488",
+        "bg": "--bg",
+        "bgValue": "#fbfaf7",
+        "min": 3,
+        "ratio": 4.49,
+        "pass": true,
+        "use": "form control border on the page (non-text)"
+      },
+      {
+        "fg": "--input-border",
+        "fgValue": "#6b7488",
+        "bg": "--surface",
+        "bgValue": "#ffffff",
+        "min": 3,
+        "ratio": 4.68,
+        "pass": true,
+        "use": "form control border on cards (non-text)"
+      },
+      {
+        "fg": "--accent-text",
+        "fgValue": "#1e40a6",
+        "bg": "--surface",
+        "bgValue": "#ffffff",
+        "min": 3,
+        "ratio": 8.97,
+        "pass": true,
+        "use": "featured plan border (non-text)"
+      },
+      {
+        "fg": "--focus",
+        "fgValue": "#1e40a6",
+        "bg": "--bg",
+        "bgValue": "#fbfaf7",
+        "min": 3,
+        "ratio": 8.6,
+        "pass": true,
+        "use": "focus ring on the page (non-text)"
+      },
+      {
+        "fg": "--focus",
+        "fgValue": "#1e40a6",
+        "bg": "--surface",
+        "bgValue": "#ffffff",
+        "min": 3,
+        "ratio": 8.97,
+        "pass": true,
+        "use": "focus ring on cards (non-text)"
+      },
+      {
+        "fg": "--focus",
+        "fgValue": "#1e40a6",
+        "bg": "--surface-2",
+        "bgValue": "#f2efe6",
+        "min": 3,
+        "ratio": 7.8,
+        "pass": true,
+        "use": "focus ring on tinted surfaces (non-text)"
+      },
+      {
+        "fg": "--focus",
+        "fgValue": "#1e40a6",
+        "bg": "--accent-soft",
+        "bgValue": "#e8edfb",
+        "min": 3,
+        "ratio": 7.66,
+        "pass": true,
+        "use": "focus ring on tinted tiles (non-text)"
+      },
+      {
+        "fg": "--focus-on-dark",
+        "fgValue": "#f0c24b",
+        "bg": "--hero-bg",
+        "bgValue": "#0e1a3a",
+        "min": 3,
+        "ratio": 10.2,
+        "pass": true,
+        "use": "focus ring on the hero and call-to-action band (non-text)"
+      },
+      {
+        "fg": "--focus-on-dark",
+        "fgValue": "#f0c24b",
+        "bg": "--footer-bg",
+        "bgValue": "#0b1430",
+        "min": 3,
+        "ratio": 10.82,
+        "pass": true,
+        "use": "focus ring in the footer (non-text)"
+      }
+    ],
+    "dark": [
+      {
+        "fg": "--text",
+        "fgValue": "#eef1fb",
+        "bg": "--bg",
+        "bgValue": "#0a1124",
+        "min": 4.5,
+        "ratio": 16.63,
+        "pass": true,
+        "use": "body text on the page"
+      },
+      {
+        "fg": "--text",
+        "fgValue": "#eef1fb",
+        "bg": "--surface",
+        "bgValue": "#121b36",
+        "min": 4.5,
+        "ratio": 15.05,
+        "pass": true,
+        "use": "text on cards, form fields and the contact panel"
+      },
+      {
+        "fg": "--text",
+        "fgValue": "#eef1fb",
+        "bg": "--surface-2",
+        "bgValue": "#19244a",
+        "min": 4.5,
+        "ratio": 13.36,
+        "pass": true,
+        "use": "text on tinted bands, page heading blocks, table headers"
+      },
+      {
+        "fg": "--text",
+        "fgValue": "#eef1fb",
+        "bg": "--accent-soft",
+        "bgValue": "#1a2a5c",
+        "min": 4.5,
+        "ratio": 12.16,
+        "pass": true,
+        "use": "text on the pressed theme toggle"
+      },
+      {
+        "fg": "--text-muted",
+        "fgValue": "#b0b9d4",
+        "bg": "--bg",
+        "bgValue": "#0a1124",
+        "min": 4.5,
+        "ratio": 9.59,
+        "pass": true,
+        "use": "secondary text on the page"
+      },
+      {
+        "fg": "--text-muted",
+        "fgValue": "#b0b9d4",
+        "bg": "--surface",
+        "bgValue": "#121b36",
+        "min": 4.5,
+        "ratio": 8.68,
+        "pass": true,
+        "use": "secondary text on cards"
+      },
+      {
+        "fg": "--text-muted",
+        "fgValue": "#b0b9d4",
+        "bg": "--surface-2",
+        "bgValue": "#19244a",
+        "min": 4.5,
+        "ratio": 7.7,
+        "pass": true,
+        "use": "secondary text on tinted bands and page heading blocks"
+      },
+      {
+        "fg": "--accent-text",
+        "fgValue": "#9bb8ff",
+        "bg": "--bg",
+        "bgValue": "#0a1124",
+        "min": 4.5,
+        "ratio": 9.56,
+        "pass": true,
+        "use": "links on the page"
+      },
+      {
+        "fg": "--accent-text",
+        "fgValue": "#9bb8ff",
+        "bg": "--surface",
+        "bgValue": "#121b36",
+        "min": 4.5,
+        "ratio": 8.65,
+        "pass": true,
+        "use": "links and outlined buttons on cards"
+      },
+      {
+        "fg": "--accent-text",
+        "fgValue": "#9bb8ff",
+        "bg": "--surface-2",
+        "bgValue": "#19244a",
+        "min": 4.5,
+        "ratio": 7.67,
+        "pass": true,
+        "use": "links on tinted bands"
+      },
+      {
+        "fg": "--accent-text",
+        "fgValue": "#9bb8ff",
+        "bg": "--accent-soft",
+        "bgValue": "#1a2a5c",
+        "min": 4.5,
+        "ratio": 6.99,
+        "pass": true,
+        "use": "tags, call-out titles and icons on tinted tiles"
+      },
+      {
+        "fg": "--accent-ink",
+        "fgValue": "#0a1124",
+        "bg": "--accent",
+        "bgValue": "#86a8ff",
+        "min": 4.5,
+        "ratio": 8.09,
+        "pass": true,
+        "use": "primary button, badge and skip link labels"
+      },
+      {
+        "fg": "--accent-ink",
+        "fgValue": "#0a1124",
+        "bg": "--accent-text",
+        "bgValue": "#9bb8ff",
+        "min": 4.5,
+        "ratio": 9.56,
+        "pass": true,
+        "use": "primary button label on hover"
+      },
+      {
+        "fg": "--hero-text",
+        "fgValue": "#f6f8ff",
+        "bg": "--hero-bg",
+        "bgValue": "#060b1b",
+        "min": 4.5,
+        "ratio": 18.47,
+        "pass": true,
+        "use": "hero headline, call-to-action band and outlined buttons on dark"
+      },
+      {
+        "fg": "--hero-muted",
+        "fgValue": "#bcc5e2",
+        "bg": "--hero-bg",
+        "bgValue": "#060b1b",
+        "min": 4.5,
+        "ratio": 11.4,
+        "pass": true,
+        "use": "hero and call-to-action supporting text"
+      },
+      {
+        "fg": "--hero-accent",
+        "fgValue": "#f0c24b",
+        "bg": "--hero-bg",
+        "bgValue": "#060b1b",
+        "min": 4.5,
+        "ratio": 11.68,
+        "pass": true,
+        "use": "hero eyebrow text"
+      },
+      {
+        "fg": "--hero-accent-ink",
+        "fgValue": "#0e1a3a",
+        "bg": "--hero-accent",
+        "bgValue": "#f0c24b",
+        "min": 4.5,
+        "ratio": 10.2,
+        "pass": true,
+        "use": "gold button and demo badge labels"
+      },
+      {
+        "fg": "--hero-accent-ink",
+        "fgValue": "#0e1a3a",
+        "bg": "--hero-text",
+        "bgValue": "#f6f8ff",
+        "min": 4.5,
+        "ratio": 16.12,
+        "pass": true,
+        "use": "gold button label on hover"
+      },
+      {
+        "fg": "--footer-text",
+        "fgValue": "#e7ebf8",
+        "bg": "--footer-bg",
+        "bgValue": "#060b1b",
+        "min": 4.5,
+        "ratio": 16.46,
+        "pass": true,
+        "use": "footer text and links"
+      },
+      {
+        "fg": "--footer-muted",
+        "fgValue": "#a3aecf",
+        "bg": "--footer-bg",
+        "bgValue": "#060b1b",
+        "min": 4.5,
+        "ratio": 8.87,
+        "pass": true,
+        "use": "footer headings, tagline and legal line"
+      },
+      {
+        "fg": "--danger",
+        "fgValue": "#ff9a8f",
+        "bg": "--bg",
+        "bgValue": "#0a1124",
+        "min": 4.5,
+        "ratio": 9.18,
+        "pass": true,
+        "use": "error text on the page"
+      },
+      {
+        "fg": "--danger",
+        "fgValue": "#ff9a8f",
+        "bg": "--surface",
+        "bgValue": "#121b36",
+        "min": 4.5,
+        "ratio": 8.31,
+        "pass": true,
+        "use": "error text and error summary on cards"
+      },
+      {
+        "fg": "--gold-text",
+        "fgValue": "#f0c24b",
+        "bg": "--bg",
+        "bgValue": "#0a1124",
+        "min": 4.5,
+        "ratio": 11.19,
+        "pass": true,
+        "use": "gold accent text on the page"
+      },
+      {
+        "fg": "--gold-text",
+        "fgValue": "#f0c24b",
+        "bg": "--surface",
+        "bgValue": "#121b36",
+        "min": 4.5,
+        "ratio": 10.13,
+        "pass": true,
+        "use": "gold accent text on cards"
+      },
+      {
+        "fg": "--gold-text",
+        "fgValue": "#f0c24b",
+        "bg": "--surface-2",
+        "bgValue": "#19244a",
+        "min": 4.5,
+        "ratio": 8.99,
+        "pass": true,
+        "use": "gold accent text on tinted surfaces"
+      },
+      {
+        "fg": "--success",
+        "fgValue": "#6fd49b",
+        "bg": "--surface",
+        "bgValue": "#121b36",
+        "min": 3,
+        "ratio": 9.35,
+        "pass": true,
+        "use": "tick icons and confirmation border on cards (non-text)"
+      },
+      {
+        "fg": "--input-border",
+        "fgValue": "#8190b3",
+        "bg": "--bg",
+        "bgValue": "#0a1124",
+        "min": 3,
+        "ratio": 5.87,
+        "pass": true,
+        "use": "form control border on the page (non-text)"
+      },
+      {
+        "fg": "--input-border",
+        "fgValue": "#8190b3",
+        "bg": "--surface",
+        "bgValue": "#121b36",
+        "min": 3,
+        "ratio": 5.31,
+        "pass": true,
+        "use": "form control border on cards (non-text)"
+      },
+      {
+        "fg": "--accent-text",
+        "fgValue": "#9bb8ff",
+        "bg": "--surface",
+        "bgValue": "#121b36",
+        "min": 3,
+        "ratio": 8.65,
+        "pass": true,
+        "use": "featured plan border (non-text)"
+      },
+      {
+        "fg": "--focus",
+        "fgValue": "#9bb8ff",
+        "bg": "--bg",
+        "bgValue": "#0a1124",
+        "min": 3,
+        "ratio": 9.56,
+        "pass": true,
+        "use": "focus ring on the page (non-text)"
+      },
+      {
+        "fg": "--focus",
+        "fgValue": "#9bb8ff",
+        "bg": "--surface",
+        "bgValue": "#121b36",
+        "min": 3,
+        "ratio": 8.65,
+        "pass": true,
+        "use": "focus ring on cards (non-text)"
+      },
+      {
+        "fg": "--focus",
+        "fgValue": "#9bb8ff",
+        "bg": "--surface-2",
+        "bgValue": "#19244a",
+        "min": 3,
+        "ratio": 7.67,
+        "pass": true,
+        "use": "focus ring on tinted surfaces (non-text)"
+      },
+      {
+        "fg": "--focus",
+        "fgValue": "#9bb8ff",
+        "bg": "--accent-soft",
+        "bgValue": "#1a2a5c",
+        "min": 3,
+        "ratio": 6.99,
+        "pass": true,
+        "use": "focus ring on tinted tiles (non-text)"
+      },
+      {
+        "fg": "--focus-on-dark",
+        "fgValue": "#f0c24b",
+        "bg": "--hero-bg",
+        "bgValue": "#060b1b",
+        "min": 3,
+        "ratio": 11.68,
+        "pass": true,
+        "use": "focus ring on the hero and call-to-action band (non-text)"
+      },
+      {
+        "fg": "--focus-on-dark",
+        "fgValue": "#f0c24b",
+        "bg": "--footer-bg",
+        "bgValue": "#060b1b",
+        "min": 3,
+        "ratio": 11.68,
+        "pass": true,
+        "use": "focus ring in the footer (non-text)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,648 @@
+{
+  "404.html": {
+    "lang": "en-GB",
+    "title": "Page not found | The Diamond Empire Consulting",
+    "description": "The page you were looking for could not be found. It may have moved or the address may be mistyped.",
+    "canonical": null,
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "about/index.html": {
+    "lang": "en-GB",
+    "title": "About us | The Diamond Empire Consulting",
+    "description": "Meet the team at The Diamond Empire Consulting, a small sample consultancy. Our story, our values and how we work with owner-led businesses.",
+    "canonical": "https://www.example.com/about/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "blog/choose-three-priorities/index.html": {
+    "lang": "en-GB",
+    "title": "How to choose three priorities when everything feels urgent",
+    "description": "A simple, repeatable method for turning a long list of good ideas into three priorities your whole team can name from memory.",
+    "canonical": "https://www.example.com/blog/choose-three-priorities/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "blog/find-your-bottleneck/index.html": {
+    "lang": "en-GB",
+    "title": "Find your bottleneck before you buy new software",
+    "description": "Most operational problems are caused by one slow step, not by a lack of tools. Learn how to find that step with a pencil and a handful of real jobs.",
+    "canonical": "https://www.example.com/blog/find-your-bottleneck/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "blog/homepage-headline-customers-repeat/index.html": {
+    "lang": "en-GB",
+    "title": "Write a homepage headline your customers would say out loud",
+    "description": "Clever slogans rarely sell services. A plain headline built from your customers' own words works harder. Here is how to write one in an hour.",
+    "canonical": "https://www.example.com/blog/homepage-headline-customers-repeat/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "blog/index.html": {
+    "lang": "en-GB",
+    "title": "Blog | The Diamond Empire Consulting",
+    "description": "Practical, original articles on strategy, operations, pricing and leadership for owner-led service businesses.",
+    "canonical": "https://www.example.com/blog/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "blog/seven-questions-before-your-first-hire/index.html": {
+    "lang": "en-GB",
+    "title": "Seven questions to ask before your first hire",
+    "description": "Hiring your first employee is a big step. Answer these seven questions first and you will write a better advert, run a fairer process and avoid a costly mistake.",
+    "canonical": "https://www.example.com/blog/seven-questions-before-your-first-hire/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "blog/stop-pricing-by-the-hour/index.html": {
+    "lang": "en-GB",
+    "title": "Stop pricing by the hour: a simple way to package your services",
+    "description": "Hourly pricing punishes you for getting faster. Here is a three-step way to package your work into fixed-price offers that customers understand.",
+    "canonical": "https://www.example.com/blog/stop-pricing-by-the-hour/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "blog/tag/brand/index.html": {
+    "lang": "en-GB",
+    "title": "Brand articles | The Diamond Empire Consulting",
+    "description": "Read 1 article tagged brand on The Diamond Empire Consulting blog.",
+    "canonical": "https://www.example.com/blog/tag/brand/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "blog/tag/hiring/index.html": {
+    "lang": "en-GB",
+    "title": "Hiring articles | The Diamond Empire Consulting",
+    "description": "Read 1 article tagged hiring on The Diamond Empire Consulting blog.",
+    "canonical": "https://www.example.com/blog/tag/hiring/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "blog/tag/leadership/index.html": {
+    "lang": "en-GB",
+    "title": "Leadership articles | The Diamond Empire Consulting",
+    "description": "Read 1 article tagged leadership on The Diamond Empire Consulting blog.",
+    "canonical": "https://www.example.com/blog/tag/leadership/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "blog/tag/messaging/index.html": {
+    "lang": "en-GB",
+    "title": "Messaging articles | The Diamond Empire Consulting",
+    "description": "Read 1 article tagged messaging on The Diamond Empire Consulting blog.",
+    "canonical": "https://www.example.com/blog/tag/messaging/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "blog/tag/operations/index.html": {
+    "lang": "en-GB",
+    "title": "Operations articles | The Diamond Empire Consulting",
+    "description": "Read 1 article tagged operations on The Diamond Empire Consulting blog.",
+    "canonical": "https://www.example.com/blog/tag/operations/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "blog/tag/planning/index.html": {
+    "lang": "en-GB",
+    "title": "Planning articles | The Diamond Empire Consulting",
+    "description": "Read 1 article tagged planning on The Diamond Empire Consulting blog.",
+    "canonical": "https://www.example.com/blog/tag/planning/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "blog/tag/pricing/index.html": {
+    "lang": "en-GB",
+    "title": "Pricing articles | The Diamond Empire Consulting",
+    "description": "Read 1 article tagged pricing on The Diamond Empire Consulting blog.",
+    "canonical": "https://www.example.com/blog/tag/pricing/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "blog/tag/process/index.html": {
+    "lang": "en-GB",
+    "title": "Process articles | The Diamond Empire Consulting",
+    "description": "Read 1 article tagged process on The Diamond Empire Consulting blog.",
+    "canonical": "https://www.example.com/blog/tag/process/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "blog/tag/strategy/index.html": {
+    "lang": "en-GB",
+    "title": "Strategy articles | The Diamond Empire Consulting",
+    "description": "Read 2 articles tagged strategy on The Diamond Empire Consulting blog.",
+    "canonical": "https://www.example.com/blog/tag/strategy/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "contact/index.html": {
+    "lang": "en-GB",
+    "title": "Contact us | The Diamond Empire Consulting",
+    "description": "Get in touch with The Diamond Empire Consulting. Send a message or book a free thirty-minute call. We reply within two working days.",
+    "canonical": "https://www.example.com/contact/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "index.html": {
+    "lang": "en-GB",
+    "title": "The Diamond Empire Consulting | Strategy and operations consulting",
+    "description": "The Diamond Empire Consulting helps owner-led service businesses set a clear strategy, tidy their operations and price with confidence. Sample content.",
+    "canonical": "https://www.example.com/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "pricing/index.html": {
+    "lang": "en-GB",
+    "title": "Pricing | The Diamond Empire Consulting",
+    "description": "Three clear packages with fixed prices. See what is included, what is not and how to choose, with no hidden extras.",
+    "canonical": "https://www.example.com/pricing/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "services/brand-positioning/index.html": {
+    "lang": "en-GB",
+    "title": "Brand and positioning | The Diamond Empire Consulting",
+    "description": "A positioning project that clarifies who you serve, what you promise and how you say it, so your website, proposals and conversations all tell the same story.",
+    "canonical": "https://www.example.com/services/brand-positioning/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "services/index.html": {
+    "lang": "en-GB",
+    "title": "Services | The Diamond Empire Consulting",
+    "description": "Six ways we help owner-led service businesses get clearer, calmer and more profitable, from a one-week strategy sprint to ongoing leadership coaching.",
+    "canonical": "https://www.example.com/services/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "services/leadership-coaching/index.html": {
+    "lang": "en-GB",
+    "title": "Leadership coaching | The Diamond Empire Consulting",
+    "description": "Leadership coaching for owners and managers who want to delegate better, hold clearer conversations and make decisions without carrying everything alone.",
+    "canonical": "https://www.example.com/services/leadership-coaching/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "services/operations-review/index.html": {
+    "lang": "en-GB",
+    "title": "Operations review | The Diamond Empire Consulting",
+    "description": "An operations review that looks at how work really moves through your business, from enquiry to invoice, and removes the delays that cost you time and goodwill.",
+    "canonical": "https://www.example.com/services/operations-review/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "services/pricing-and-offers/index.html": {
+    "lang": "en-GB",
+    "title": "Pricing and offers | The Diamond Empire Consulting",
+    "description": "A pricing and offers workshop series that helps you package your services, set prices that reflect the value you create and handle price conversations calmly.",
+    "canonical": "https://www.example.com/services/pricing-and-offers/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "services/strategy-sprint/index.html": {
+    "lang": "en-GB",
+    "title": "Strategy sprint | The Diamond Empire Consulting",
+    "description": "A strategy sprint for owner-led businesses that have outgrown gut feel. In five days we agree where you are, where you want to be in a year and the three bets to get there.",
+    "canonical": "https://www.example.com/services/strategy-sprint/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "services/team-and-hiring/index.html": {
+    "lang": "en-GB",
+    "title": "Team and hiring | The Diamond Empire Consulting",
+    "description": "Support for your first hires and your next ones: defining the role, writing an honest advert, structuring interviews and onboarding the new colleague well.",
+    "canonical": "https://www.example.com/services/team-and-hiring/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  }
+}

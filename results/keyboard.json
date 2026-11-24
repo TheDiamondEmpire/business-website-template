@@ -1,0 +1,434 @@
+{
+  "404.html@1280": {
+    "tabbableElements": 20,
+    "stops": 20,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "404.html@320": {
+    "tabbableElements": 20,
+    "stops": 20,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "about/index.html@1280": {
+    "tabbableElements": 19,
+    "stops": 19,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "about/index.html@320": {
+    "tabbableElements": 19,
+    "stops": 19,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/choose-three-priorities/index.html@1280": {
+    "tabbableElements": 22,
+    "stops": 22,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/choose-three-priorities/index.html@320": {
+    "tabbableElements": 22,
+    "stops": 22,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/find-your-bottleneck/index.html@1280": {
+    "tabbableElements": 22,
+    "stops": 22,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/find-your-bottleneck/index.html@320": {
+    "tabbableElements": 22,
+    "stops": 22,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/homepage-headline-customers-repeat/index.html@1280": {
+    "tabbableElements": 22,
+    "stops": 22,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/homepage-headline-customers-repeat/index.html@320": {
+    "tabbableElements": 22,
+    "stops": 22,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/index.html@1280": {
+    "tabbableElements": 32,
+    "stops": 32,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/index.html@320": {
+    "tabbableElements": 32,
+    "stops": 32,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/seven-questions-before-your-first-hire/index.html@1280": {
+    "tabbableElements": 22,
+    "stops": 22,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/seven-questions-before-your-first-hire/index.html@320": {
+    "tabbableElements": 22,
+    "stops": 22,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/stop-pricing-by-the-hour/index.html@1280": {
+    "tabbableElements": 22,
+    "stops": 22,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/stop-pricing-by-the-hour/index.html@320": {
+    "tabbableElements": 22,
+    "stops": 22,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/tag/brand/index.html@1280": {
+    "tabbableElements": 29,
+    "stops": 29,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/tag/brand/index.html@320": {
+    "tabbableElements": 29,
+    "stops": 29,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/tag/hiring/index.html@1280": {
+    "tabbableElements": 29,
+    "stops": 29,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/tag/hiring/index.html@320": {
+    "tabbableElements": 29,
+    "stops": 29,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/tag/leadership/index.html@1280": {
+    "tabbableElements": 29,
+    "stops": 29,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/tag/leadership/index.html@320": {
+    "tabbableElements": 29,
+    "stops": 29,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/tag/messaging/index.html@1280": {
+    "tabbableElements": 29,
+    "stops": 29,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/tag/messaging/index.html@320": {
+    "tabbableElements": 29,
+    "stops": 29,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/tag/operations/index.html@1280": {
+    "tabbableElements": 29,
+    "stops": 29,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/tag/operations/index.html@320": {
+    "tabbableElements": 29,
+    "stops": 29,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/tag/planning/index.html@1280": {
+    "tabbableElements": 29,
+    "stops": 29,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/tag/planning/index.html@320": {
+    "tabbableElements": 29,
+    "stops": 29,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/tag/pricing/index.html@1280": {
+    "tabbableElements": 29,
+    "stops": 29,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/tag/pricing/index.html@320": {
+    "tabbableElements": 29,
+    "stops": 29,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/tag/process/index.html@1280": {
+    "tabbableElements": 29,
+    "stops": 29,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/tag/process/index.html@320": {
+    "tabbableElements": 29,
+    "stops": 29,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/tag/strategy/index.html@1280": {
+    "tabbableElements": 30,
+    "stops": 30,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "blog/tag/strategy/index.html@320": {
+    "tabbableElements": 30,
+    "stops": 30,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "contact/index.html@1280": {
+    "tabbableElements": 26,
+    "stops": 26,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "contact/index.html@320": {
+    "tabbableElements": 26,
+    "stops": 26,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "index.html@1280": {
+    "tabbableElements": 24,
+    "stops": 24,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "index.html@320": {
+    "tabbableElements": 24,
+    "stops": 24,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "pricing/index.html@1280": {
+    "tabbableElements": 28,
+    "stops": 28,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "pricing/index.html@320": {
+    "tabbableElements": 28,
+    "stops": 28,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "services/brand-positioning/index.html@1280": {
+    "tabbableElements": 27,
+    "stops": 27,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "services/brand-positioning/index.html@320": {
+    "tabbableElements": 27,
+    "stops": 27,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "services/index.html@1280": {
+    "tabbableElements": 25,
+    "stops": 25,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "services/index.html@320": {
+    "tabbableElements": 25,
+    "stops": 25,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "services/leadership-coaching/index.html@1280": {
+    "tabbableElements": 27,
+    "stops": 27,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "services/leadership-coaching/index.html@320": {
+    "tabbableElements": 27,
+    "stops": 27,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "services/operations-review/index.html@1280": {
+    "tabbableElements": 27,
+    "stops": 27,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "services/operations-review/index.html@320": {
+    "tabbableElements": 27,
+    "stops": 27,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "services/pricing-and-offers/index.html@1280": {
+    "tabbableElements": 27,
+    "stops": 27,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "services/pricing-and-offers/index.html@320": {
+    "tabbableElements": 27,
+    "stops": 27,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "services/strategy-sprint/index.html@1280": {
+    "tabbableElements": 27,
+    "stops": 27,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "services/strategy-sprint/index.html@320": {
+    "tabbableElements": 27,
+    "stops": 27,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "services/team-and-hiring/index.html@1280": {
+    "tabbableElements": 27,
+    "stops": 27,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  },
+  "services/team-and-hiring/index.html@320": {
+    "tabbableElements": 27,
+    "stops": 27,
+    "firstStop": "Skip to main content",
+    "firstStopIsSkipLink": true,
+    "withoutFocusIndicator": [],
+    "allReached": true
+  }
+}

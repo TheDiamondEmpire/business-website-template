@@ -1,0 +1,74 @@
+{
+  "command": "npm run test:record (vitest run, projects: unit, static, export)",
+  "exitCode": 0,
+  "tests": 229,
+  "pass": 229,
+  "fail": 0,
+  "pending": 0,
+  "todo": 0,
+  "testFiles": 15,
+  "failingTests": [],
+  "byFile": {
+    "tests/unit/components.test.tsx": {
+      "passed": 28,
+      "failed": 0
+    },
+    "tests/unit/contact-adapters.test.ts": {
+      "passed": 5,
+      "failed": 0
+    },
+    "tests/unit/contact-form.test.tsx": {
+      "passed": 13,
+      "failed": 0
+    },
+    "tests/unit/contact-validate.test.ts": {
+      "passed": 16,
+      "failed": 0
+    },
+    "tests/unit/content.test.ts": {
+      "passed": 11,
+      "failed": 0
+    },
+    "tests/unit/feed-routes.test.ts": {
+      "passed": 10,
+      "failed": 0
+    },
+    "tests/unit/jsonld.test.ts": {
+      "passed": 7,
+      "failed": 0
+    },
+    "tests/unit/mdx-config.test.tsx": {
+      "passed": 9,
+      "failed": 0
+    },
+    "tests/unit/posts.test.ts": {
+      "passed": 23,
+      "failed": 0
+    },
+    "tests/unit/seo.test.ts": {
+      "passed": 16,
+      "failed": 0
+    },
+    "tests/static/docs.test.mjs": {
+      "passed": 19,
+      "failed": 0
+    },
+    "tests/static/source.test.mjs": {
+      "passed": 26,
+      "failed": 0
+    },
+    "tests/static/tokens.test.mjs": {
+      "passed": 18,
+      "failed": 0
+    },
+    "tests/export/browser.test.mjs": {
+      "passed": 9,
+      "failed": 0
+    },
+    "tests/export/static-export.test.mjs": {
+      "passed": 19,
+      "failed": 0
+    }
+  },
+  "finishedAt": "2026-11-03T23:47:23.670Z"
+}

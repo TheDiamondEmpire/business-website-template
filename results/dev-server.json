@@ -1,0 +1,51 @@
+{
+  "port": 3217,
+  "pid": 40800,
+  "pages": {
+    "/": {
+      "status": 200,
+      "hasH1": true
+    },
+    "/services/": {
+      "status": 200,
+      "hasH1": true
+    },
+    "/services/strategy-sprint/": {
+      "status": 200,
+      "hasH1": true
+    },
+    "/pricing/": {
+      "status": 200,
+      "hasH1": true
+    },
+    "/about/": {
+      "status": 200,
+      "hasH1": true
+    },
+    "/blog/": {
+      "status": 200,
+      "hasH1": true
+    },
+    "/contact/": {
+      "status": 200,
+      "hasH1": true
+    },
+    "/rss.xml": {
+      "status": 200,
+      "hasH1": true
+    },
+    "/sitemap.xml": {
+      "status": 200,
+      "hasH1": true
+    },
+    "/robots.txt": {
+      "status": 200,
+      "hasH1": true
+    },
+    "/no-such-page/": {
+      "status": 404,
+      "hasH1": true
+    }
+  },
+  "ready": true
+}

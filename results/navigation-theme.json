@@ -1,0 +1,38 @@
+{
+  "skipLink": {
+    "activeId": "main",
+    "hash": "#main"
+  },
+  "routeFocus": {
+    "activeId": "main",
+    "path": "/services/",
+    "current": [
+      "Services"
+    ],
+    "h1": "Services",
+    "title": "Services | The Diamond Empire Consulting"
+  },
+  "theme": {
+    "initial": {
+      "pressed": "true",
+      "dataTheme": null,
+      "bg": "rgb(10, 17, 36)"
+    },
+    "afterClick": {
+      "pressed": "false",
+      "dataTheme": "light",
+      "bg": "rgb(251, 250, 247)",
+      "stored": "light"
+    },
+    "afterReload": {
+      "pressed": "false",
+      "dataTheme": "light",
+      "bg": "rgb(251, 250, 247)"
+    },
+    "backToDark": {
+      "pressed": "true",
+      "dataTheme": "dark",
+      "bg": "rgb(10, 17, 36)"
+    }
+  }
+}
